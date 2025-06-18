@@ -4,7 +4,6 @@ class Solution {
 
     public static void main(String[] args) {
         int color[] = {1,2, 2,1}, radius[] = {1,2,2,1};
-      
         System.out.println(new Solution().findLength(color, radius));   
     }
 
