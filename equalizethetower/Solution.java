@@ -1,3 +1,4 @@
+package equalizethetower;
 class Solution {
     public int minCost(int[] heights, int[] cost) {
         

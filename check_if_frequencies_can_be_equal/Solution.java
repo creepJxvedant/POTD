@@ -1,3 +1,4 @@
+package check_if_frequencies_can_be_equal;
 import java.util.Map.Entry;
 import java.util.TreeMap;
 class Solution {

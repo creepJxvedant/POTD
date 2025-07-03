@@ -1,4 +1,6 @@
+package groupballsbysequence;
 import java.util.*;
+
 
 class Solution {
     public boolean validgroup(int[] arr, int k) {
@@ -24,4 +26,7 @@ class Solution {
 
         return true;
     }
+
+
+    
 }

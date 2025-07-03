@@ -1,4 +1,6 @@
+package 2616;
 import java.util.Arrays;
+
 class Solution {
     public int minimizeMax(int[] nums, int p) {
         Arrays.sort(nums);
