@@ -1,0 +1,14 @@
+# IntelliJ project files
+*.iml
+.idea/
+
+# Build output
+/out/
+target/
+*.class
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+.gitignore````````
